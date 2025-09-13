@@ -210,7 +210,14 @@ Found a bug or have a suggestion? Please open an issue or submit a pull request 
 
 ## 🙏 Acknowledgments
 
-Inspired by proven software development methodologies and designed to work seamlessly with claude-code's powerful AI capabilities.
+This package is inspired by and based on the excellent AI development workflow prompts created by Rob from Switch Dimension:
+
+- **YouTube Video**: [AI Dev Project Setup Prompts](https://www.youtube.com/watch?v=MbcYhCE7rjE)
+- **Original Notion Documentation**: [AI Dev Project Setup Prompts](https://notes.switchdimension.com/AI-Dev-Project-Setup-Prompts-18fb5b07a94380758bd6e92baa5e8c98)
+
+The three-expert workflow (Product Manager → UX Designer → Software Architect) and the structured prompts were developed by Rob and have been adapted here as claude-code slash commands for easier integration into development workflows.
+
+Special thanks to Rob for sharing these valuable prompts with the community and demonstrating how structured AI interactions can dramatically improve software project planning and documentation.
 
 ---
 
