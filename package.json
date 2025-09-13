@@ -1,10 +1,13 @@
 {
-  "name": "three-experts",
+  "name": "@michaelborck/three-experts",
   "version": "1.0.0",
   "description": "A Node.js npm package that adds custom slash commands to claude-code for generating Product Requirements Documents, User Interface Design Documents, and Software Requirements Specifications using AI-powered expert prompts.",
   "main": "index.js",
   "bin": {
     "three-experts": "index.js"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "scripts": {
     "postinstall": "node index.js install",

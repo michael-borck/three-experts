@@ -16,19 +16,19 @@ Each expert asks targeted questions, provides professional guidance, and generat
 
 ### Option 1: Install with npm (Recommended)
 ```bash
-npm install three-experts
+npm install @michaelborck/three-experts
 ```
 
 The commands are automatically installed via the postinstall script.
 
 ### Option 2: Install globally
 ```bash
-npm install -g three-experts
+npm install -g @michaelborck/three-experts
 ```
 
 ### Option 3: Manual installation
 ```bash
-npx three-experts install
+npx @michaelborck/three-experts install
 ```
 
 ## 🔧 How It Works
@@ -197,7 +197,7 @@ Each expert generates professional documentation:
 
 ### Need to reinstall?
 ```bash
-npx three-experts install
+npx @michaelborck/three-experts install
 ```
 
 ## 📝 License
@@ -221,4 +221,4 @@ Special thanks to Rob for sharing these valuable prompts with the community and 
 
 ---
 
-**Ready to turn your ideas into reality?** Install three-experts and start with `/create-prd` in your next claude-code session!
+**Ready to turn your ideas into reality?** Install `@michaelborck/three-experts` and start with `/create-prd` in your next claude-code session!
